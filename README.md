@@ -1,2 +1,2 @@
 # HTML-portfolio
-My portfolio in HTML, this is a simple HTML portfolio this is a part of a fullstack boot camp 2023 from udemy
+My portfolio in HTML, is a simple HTML without CSS portfolio that is a part of a full-stack boot camp 2023 from Udemy
